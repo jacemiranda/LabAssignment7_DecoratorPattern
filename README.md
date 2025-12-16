@@ -1,7 +1,3 @@
-# CIMB - Decorator Pattern
-
-This repository contains the solution for the CIMB banking activity using the **Decorator Design Pattern**.
-
 ## Problem Statement
 
 CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains account Number, accountName, and a balance for that account.
